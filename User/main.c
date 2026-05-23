@@ -16,8 +16,8 @@
   */
   
 #include "stm32f4xx.h"
-#include "./led/bsp_led.h"
-#include "./key/bsp_key.h" 
+#include "bsp_led.h"
+#include "bsp_key.h" 
 
 /**
   * @brief  Ö÷º¯Êý

@@ -34,5 +34,5 @@
 ..\..\output\main.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h
 ..\..\output\main.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
 ..\..\output\main.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
-..\..\output\main.o: ..\..\User\./led/bsp_led.h
-..\..\output\main.o: ..\..\User\./key/bsp_key.h
+..\..\output\main.o: ..\..\User\Software\bsp_led.h
+..\..\output\main.o: ..\..\User\Software\bsp_key.h
